@@ -1,2 +1,2 @@
 # Practise-1
- Practice git repo
+practice and uploading only .java file Code
