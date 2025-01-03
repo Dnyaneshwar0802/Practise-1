@@ -1,0 +1,8 @@
+
+.idea/compiler.xml
+.idea/Practise-1.iml
+Test-1/pom.xml
+Test-1/target/classes/org/ex/AsciiSumCalculator.class
+/Test-1/target/classes
+/.idea
+Test-1/src/main/java/org/ex/Main.java
