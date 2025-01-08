@@ -6,3 +6,7 @@ Test-1/target/classes/org/ex/AsciiSumCalculator.class
 /Test-1/target/classes
 /.idea
 Test-1/src/main/java/org/ex/Main.java
+*.class
+*.xml
+*.xml
+Test-2/pom.xml
