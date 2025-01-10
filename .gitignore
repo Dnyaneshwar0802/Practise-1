@@ -10,3 +10,4 @@ Test-1/src/main/java/org/ex/Main.java
 *.xml
 *.xml
 Test-2/pom.xml
+Test-3/src/main/java/org/ex/Main.java
