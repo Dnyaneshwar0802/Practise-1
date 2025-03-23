@@ -1,7 +1,6 @@
 package org.ex;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class ListEvenOdd {
     public static void main(String[] args) {
@@ -12,10 +11,16 @@ public class ListEvenOdd {
         li.add(88);
         li.add(20);
         li.add(50);
-        for(int i=0;i<li.size();i++){
+        System.out.println("This is List"+li);
+    /*    for(int i=0;i<li.size();i++){
             if(li.get(i)%2==0)
             System.out.println(li.get(i));
-        }
+        }*/
        // li.stream().map(a->a%2).forEach(x-> System.out.println(x));
+        Set<Integer> set=new HashSet<>(li);
+        System.out.println("This is Hashset"+set);
+        Set<Integer> liset=new LinkedHashSet<>(li);
+        System.out.println("This is Linked HashSet"+liset);
+
     }
 }
